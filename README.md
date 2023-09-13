@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 
-- 💬 Ask me about *Python, Pandas, PySpark, Machine Learning*
+- 💬 Ask me about *Python, Pandas, PySpark, Machine Learning,Oracle sql*
 
-- 📫 How to reach me **swarshinde05@gmail.com**
+- 📫 How to reach me **ajayyadav746000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
