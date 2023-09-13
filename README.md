@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ajayyadav746000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">ajayyadav746000@gmail.com
-<a href="https://linkedin.com/in/swarup-shinde-73b02013b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup-shinde-73b02013b" height="30" width="40" /></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/ajayyadav9999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarup-shinde-73b02013b" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
