@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  /* Add CSS for the circular image */
-  .circular-image {
-    width: 150px; /* Adjust the size as needed */
-    height: 150px; /* Adjust the size as needed */
-    border-radius: 50%; /* Creates a circular clipping mask */
-    object-fit: cover; /* Ensures the image covers the circular area */
-  }
-</style>
 
 <h1 align="left">Hi 👋, I'm Ajay Yadav</h1>
 <h3 align="left">A passionate Big Data Analytics CDAC student from India</h3>
