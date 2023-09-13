@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ajayyadav746000/ajayyadav746000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hi 👋, I'm Swarup Shinde</h1>
+<h1 align="left">Hi 👋, I'm Ajay Yadav</h1>
 <h3 align="left">A passionate Big Data Analitics CDAC student from India</h3>
 <img align="center" src=https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_423_752/0/1665494659870?e=1698883200&v=beta&t=MTMUZ3JRNY4xmLoeic_Ya2Xxwa_alQjWyNq1LzJ48pQ >
 
